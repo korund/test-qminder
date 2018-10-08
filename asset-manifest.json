@@ -1,14 +1,14 @@
 {
-  "main.css": "/test-qminder/static/css/main.1e086a3a.chunk.css",
-  "main.js": "/test-qminder/static/js/main.a5c36d53.chunk.js",
-  "main.js.map": "/test-qminder/static/js/main.a5c36d53.chunk.js.map",
-  "static/js/1.5d34a58b.chunk.js": "/test-qminder/static/js/1.5d34a58b.chunk.js",
-  "static/js/1.5d34a58b.chunk.js.map": "/test-qminder/static/js/1.5d34a58b.chunk.js.map",
+  "main.css": "/test-qminder/static/css/main.70b44229.chunk.css",
+  "main.js": "/test-qminder/static/js/main.e92073d2.chunk.js",
+  "main.js.map": "/test-qminder/static/js/main.e92073d2.chunk.js.map",
+  "static/js/1.968521e2.chunk.js": "/test-qminder/static/js/1.968521e2.chunk.js",
+  "static/js/1.968521e2.chunk.js.map": "/test-qminder/static/js/1.968521e2.chunk.js.map",
   "runtime~main.js": "/test-qminder/static/js/runtime~main.22d9d4aa.js",
   "runtime~main.js.map": "/test-qminder/static/js/runtime~main.22d9d4aa.js.map",
   "static/media/logo.svg": "/test-qminder/static/media/logo.5d5d9eef.svg",
-  "static/css/main.1e086a3a.chunk.css.map": "/test-qminder/static/css/main.1e086a3a.chunk.css.map",
+  "static/css/main.70b44229.chunk.css.map": "/test-qminder/static/css/main.70b44229.chunk.css.map",
   "index.html": "/test-qminder/index.html",
-  "precache-manifest.eac68a0165072c0d00fca88cac5669c0.js": "/test-qminder/precache-manifest.eac68a0165072c0d00fca88cac5669c0.js",
+  "precache-manifest.6094a973ac477bf90046432d7cd44597.js": "/test-qminder/precache-manifest.6094a973ac477bf90046432d7cd44597.js",
   "service-worker.js": "/test-qminder/service-worker.js"
 }

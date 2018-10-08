@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/test-qminder/precache-manifest.eac68a0165072c0d00fca88cac5669c0.js"
+  "/test-qminder/precache-manifest.6094a973ac477bf90046432d7cd44597.js"
 );
 
 workbox.clientsClaim();
