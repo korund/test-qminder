@@ -1,0 +1,17 @@
+.BurgerMap {
+  height: 100%;
+  border-radius: 4px;
+  color: black;
+}
+
+.BurgerMap.container {
+  height: 80vmin;
+  width: 100%
+}
+
+.VenueInfo h1 {
+  font-size: large;
+  text-align: center;
+  margin: 0;
+  text-transform: capitalize;
+}
